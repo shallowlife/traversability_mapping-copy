@@ -10,7 +10,7 @@ This repository contains code for a traversability mapping and motion plannign s
 
 - Install [ROS](http://www.ros.org/install/).
 
-- Install [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM).
+- Install [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM).原版本frame_id混乱，可参照[lego-loam-copy](https://github.com/shallowlife/lego-loam-copy).
 
 - Install [ROS Navigation stack](http://wiki.ros.org/navigation). You can install it by running ```sudo apt-get install ros-indigo-navigation```. If you are using other versions of ROS, replace indigo in the command with your ROS version.
 
